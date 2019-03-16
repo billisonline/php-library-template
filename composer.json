@@ -5,19 +5,24 @@
     "type": "library",
     "authors": [
         {
-            "name": "PJ Dietz",
-            "email": "pjdietz@gmail.com"
+            "name": "Bill Yanelli",
+            "email": "bill.yanelli@gmail.com"
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "php": ">=7.1.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~4.6"
+        "phpunit/phpunit": "^7"
     },
     "autoload": {
         "psr-4": {
-            "" : "src/"
+            "BYanelli\\ProjectName\\" : "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BYanelli\\ProjectName\\Tests\\" : "tests/"
         }
     }
 }
