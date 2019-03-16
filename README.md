@@ -9,7 +9,7 @@ This repository provides these files as samples:
 - .gitattributes
 - .gitignore
 - composer.json 
-- phpunit.xml.dist
+- phpunit.xml
 - README.md
 
-The repository also contains a ``src`` directory for autoloaded classes and a ``test`` directory structure with sample test.
+The repository also contains a ``src`` directory for autoloaded classes and a ``tests`` directory structure with sample test.
