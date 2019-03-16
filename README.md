@@ -6,7 +6,6 @@ Template PHP Library with Composer and PHPUnit
 To use, clone this repository, delete the ``.git`` directory, and ``git init`` to start your project with a fresh history.
 
 This repository provides these files as samples:
-- .gitattributes
 - .gitignore
 - composer.json 
 - phpunit.xml
