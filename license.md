@@ -1,8 +1,6 @@
 MIT License
 
-Copyright (c) 2020 the author and other contributors as indicated by commit messages
-
-(^^^ change this in your first commit!)
+Copyright (c) 2020 Bill Yanelli
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
