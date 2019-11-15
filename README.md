@@ -1,9 +1,10 @@
-PHP Library Template
-====================
+# PHP Library Template
 
 ![](https://travis-ci.org/billisonline/php-library-template.svg?branch=master)
 
 Template PHP Library with Composer and PHPUnit
+
+## How to use
 
 To use, clone this repository, delete the ``.git`` directory, and ``git init`` to start your project with a fresh history.
 
