@@ -16,3 +16,7 @@ This repository provides these files as samples:
 - README.md
 
 The repository also contains a ``src`` directory for autoloaded classes and a ``tests`` directory structure with sample test.
+
+## How to test
+
+`composer test` or `./vendor/bin/phpunit`
